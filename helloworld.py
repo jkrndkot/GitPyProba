@@ -1,4 +1,4 @@
-print("Hello, World!")
+print("asdf")
 
 import pygame
 import sys
@@ -11,7 +11,7 @@ window_size = (512, 512)
 screen = pygame.display.set_mode(window_size)
 
 # Заголовок окна
-pygame.display.set_caption('Мой корги!')
+pygame.display.set_caption('Мой корги изменён!')
 
 # Загрузка изображения
 image = pygame.image.load('logo.png')
